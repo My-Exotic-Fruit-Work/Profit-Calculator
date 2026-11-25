@@ -1,6 +1,6 @@
-# Profit Calculator
+> Moved to https://github.com/orgs/My-Exotic-Fruit-Work/repositories because I found out I can't deliver professional code in TypeScript, making adjustments to this code would be impossible.
 
----
+# Profit Calculator
 
 From our invoice pdf's we would like to know how much profit we would make assuming we sell everything we bought on our website.
 Also, if they change their prices, we would like to see that change, so we can changes ours aswell.
